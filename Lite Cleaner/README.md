@@ -259,4 +259,6 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 **📱 Google Play Store'da değerlendirin ve yorum yapın!**
 
+
 https://github.com/expo/expo-go-releases/releases/download/Expo-Go-2.33.22/Expo-Go-2.33.22.apk Gerekli sürüm apk (sen yorulma alperen sönmez)
+https://dosya.co/4i56tpiq7ibn/node_modules.rar.html buda node modülleri sorun çıkarırsa indirirsin<3.
